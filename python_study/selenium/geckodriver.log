@@ -1,0 +1,530 @@
+1538919091805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cR3d38OxxUJz"
+Error: no DISPLAY environment variable specified
+1538919392954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KNICEbr4aTL1"
+1538919402681	Marionette	INFO	Listening on port 36073
+1538919402736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538919402870	Marionette	DEBUG	[2147483649] Frame script loaded
+1538919402911	Marionette	DEBUG	[2147483649] Frame script registered
+1538919402936	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538919403555	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538919404831	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1538919404991	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.baidu.com/
+1538919405012	Marionette	INFO	Stopped listening on port 36073
+1538919552503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D6Roynz8fEdi"
+1538919554940	Marionette	INFO	Listening on port 38863
+1538919555063	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538919555173	Marionette	DEBUG	[2147483649] Frame script loaded
+1538919555178	Marionette	DEBUG	[2147483649] Frame script registered
+1538919555204	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538919555815	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538919558588	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538919558907	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+[Parent 2419, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538919563094	Marionette	INFO	Stopped listening on port 38863
+1538919664052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PFOgscBRMbPS"
+1538919666626	Marionette	INFO	Listening on port 38127
+1538919666684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538919666801	Marionette	DEBUG	[2147483649] Frame script loaded
+1538919666841	Marionette	DEBUG	[2147483649] Frame script registered
+1538919666915	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538919667388	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://m.qichacha.com/material/theme/mobile/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538919668237	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://m.qichacha.com/
+1538919668253	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://m.qichacha.com/
+1538919668269	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://m.qichacha.com/
+1538919668290	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://m.qichacha.com/
+JavaScript error: https://m.qichacha.com/, line 118: NS_ERROR_UNKNOWN_PROTOCOL: 
+1538919668334	Marionette	DEBUG	[2147483649] Received DOM event unload for https://m.qichacha.com/
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 449: TypeError: docShell.failedChannel is null
+1538919668468	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for about:neterror?e=unknownProtocolFound&u=qichacha%3A//com.android.icredit/&c=UTF-8&f=regular&d=Firefox%20doesn%E2%80%99t%20kno ... otocols%20%28qichacha%29%20isn%E2%80%99t%20associated%20with%20any%20program%20or%20is%20not%20allowed%20in%20this%20context.
+1538919682527	Marionette	INFO	Stopped listening on port 38127
+1538919758120	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MbH4ez8EDoZY"
+1538919760788	Marionette	INFO	Listening on port 33577
+1538919760855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538919760935	Marionette	DEBUG	[2147483649] Frame script loaded
+1538919760996	Marionette	DEBUG	[2147483649] Frame script registered
+1538919761062	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538919761758	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538919765078	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538919765528	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538919765647	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538919766064	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538919766066	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538919767807	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538919767885	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+1538919774436	Marionette	DEBUG	[2147483654] Frame script loaded
+1538919774452	Marionette	DEBUG	[2147483654] Frame script registered
+1538919774516	Marionette	DEBUG	[2147483657] Frame script loaded
+1538919774526	Marionette	DEBUG	[2147483657] Frame script registered
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.qichacha.com/firm_72e2ca711021083deff31140a4f9b32c.html, line 190: ReferenceError: touziChart is not defined
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538919777908	Marionette	INFO	Stopped listening on port 33577
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 6: TypeError: r is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E00B1,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1538919968552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hbIzmigFNW5P"
+1538919971380	Marionette	INFO	Listening on port 36067
+1538919971414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538919971489	Marionette	DEBUG	[2147483649] Frame script loaded
+1538919971493	Marionette	DEBUG	[2147483649] Frame script registered
+1538919971529	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538919972356	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538919976147	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538919976492	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538919976597	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538919976859	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538919976866	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538919978302	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538919978350	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+1538919988468	Marionette	INFO	Stopped listening on port 36067
+1538920027851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EeOjn6ZonKry"
+1538920030505	Marionette	INFO	Listening on port 33827
+1538920030580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920030707	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920030721	Marionette	DEBUG	[2147483649] Frame script registered
+1538920030796	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920031866	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920034683	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920035180	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538920035310	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538920035785	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538920035790	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920037299	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920037348	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920047456	Marionette	INFO	Stopped listening on port 33827
+1538920239522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DAma7kzQizTE"
+1538920242244	Marionette	INFO	Listening on port 35179
+1538920242252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920242348	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920242349	Marionette	DEBUG	[2147483649] Frame script registered
+1538920242367	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920246089	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920249214	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920249803	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538920249976	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538920250447	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538920250448	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920251827	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920252636	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920253772	Marionette	INFO	Stopped listening on port 35179
+1538920261434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dNd8HsAypoiB"
+1538920264146	Marionette	INFO	Listening on port 43493
+1538920264169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920264270	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920264276	Marionette	DEBUG	[2147483649] Frame script registered
+1538920264291	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920265037	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920268071	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920268690	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538920268819	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538920269362	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538920269367	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920270878	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920270925	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920272093	Marionette	INFO	Stopped listening on port 43493
+[Parent 3325, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538920358760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ju7fjlI6eQNu"
+1538920361465	Marionette	INFO	Listening on port 33335
+1538920361489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920361593	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920361597	Marionette	DEBUG	[2147483649] Frame script registered
+1538920361625	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920362270	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920366678	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920366982	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538920367113	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538920367327	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538920367332	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920368985	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920369022	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920370104	Marionette	INFO	Stopped listening on port 33335
+1538920570614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MICEFLoFrXdo"
+1538920573296	Marionette	INFO	Listening on port 34153
+1538920573361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920573411	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920573416	Marionette	DEBUG	[2147483649] Frame script registered
+1538920573564	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920574209	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920578264	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920579975	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538920580155	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538920580375	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538920580383	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920581910	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920582088	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920583168	Marionette	INFO	Stopped listening on port 34153
+1538920742511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bc4Qj7Codhiy"
+1538920745296	Marionette	INFO	Listening on port 35767
+1538920745341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920745405	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920745415	Marionette	DEBUG	[2147483649] Frame script registered
+1538920745441	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920746484	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920752751	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920753024	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538920753168	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538920753673	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538920753674	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920755116	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920755169	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+JavaScript error: https://www.qichacha.com/material/theme/chacha/cms/v2/js/custom.js?time=20180930, line 35: TypeError: $(...).offset(...) is undefined
+[Parent 3751, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538920773247	Marionette	INFO	Stopped listening on port 35767
+1538920786685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BJatTDUqjzpp"
+1538920789396	Marionette	INFO	Listening on port 38383
+1538920789419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920789531	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920789541	Marionette	DEBUG	[2147483649] Frame script registered
+1538920789670	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920791162	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920793948	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920794249	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538920794383	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538920794667	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538920794669	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920796238	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920796306	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538920797486	Marionette	INFO	Stopped listening on port 38383
+[Parent 3886, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538920946022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TzV9PZFlI4kO"
+1538920948707	Marionette	INFO	Listening on port 38101
+1538920948751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538920948816	Marionette	DEBUG	[2147483649] Frame script loaded
+1538920948821	Marionette	DEBUG	[2147483649] Frame script registered
+1538920948841	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538920949675	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538920951588	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538920952251	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538921016608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.86KYs6RSe0mO"
+1538921019632	Marionette	INFO	Listening on port 35237
+1538921019660	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538921019777	Marionette	DEBUG	[2147483649] Frame script loaded
+1538921019785	Marionette	DEBUG	[2147483649] Frame script registered
+1538921019820	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538921020831	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921024147	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538921024548	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538921024692	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538921025193	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538921025194	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921026929	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538921027080	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+[Parent 4147, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538921041137	Marionette	INFO	Stopped listening on port 35237
+1538921042562	Marionette	INFO	Stopped listening on port 38101
+1538921069027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZEoDTVRgf06F"
+1538921071957	Marionette	INFO	Listening on port 44647
+1538921072052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538921072179	Marionette	DEBUG	[2147483649] Frame script loaded
+1538921072195	Marionette	DEBUG	[2147483649] Frame script registered
+1538921072265	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538921073060	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921076552	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538921076885	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538921118524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s4BPCUKLZ8I8"
+1538921121194	Marionette	INFO	Listening on port 34085
+1538921121268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538921121325	Marionette	DEBUG	[2147483649] Frame script loaded
+1538921121328	Marionette	DEBUG	[2147483649] Frame script registered
+1538921121345	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538921122241	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921124228	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538921124665	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538921124794	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538921125008	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538921125014	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921126510	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538921126545	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538921152042	Marionette	INFO	Stopped listening on port 34085
+[Parent 4324, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538921156931	Marionette	INFO	Stopped listening on port 44647
+1538921205558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g8hfl3jnN9wj"
+1538921208932	Marionette	INFO	Listening on port 43929
+1538921208999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538921209046	Marionette	DEBUG	[2147483649] Frame script loaded
+1538921209051	Marionette	DEBUG	[2147483649] Frame script registered
+1538921209177	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538921210002	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921213491	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538921213808	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538921213948	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538921214261	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538921214266	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921215849	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538921216305	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538921217619	Marionette	INFO	Stopped listening on port 43929
+[Parent 4600, Gecko_IOThread] WARNING: pipe error (113): Connection reset by peer: file /build/firefox-E5azaL/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1538921351724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4bIK5VqBqqO5"
+1538921357960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vNUx0tKecmxY"
+1538921360651	Marionette	INFO	Listening on port 33369
+1538921360700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538921360758	Marionette	DEBUG	[2147483649] Frame script loaded
+1538921360762	Marionette	DEBUG	[2147483649] Frame script registered
+1538921360803	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538921361624	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921363708	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/
+1538921364105	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/
+1538921364239	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.qichacha.com/
+1538921364661	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.qichacha.com/
+1538921364667	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.qichacha.com/
+JavaScript warning: https://www.qichacha.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1538921366091	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538921366129	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.qichacha.com/search?key=%E6%97%A0%E9%94%A1%E5%85%86%E8%BE%89%E8%B4%B8%E6%98%93%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+1538921367402	Marionette	INFO	Stopped listening on port 33369
